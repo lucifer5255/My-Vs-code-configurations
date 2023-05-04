@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "editor.fontSize": 17,
+    "editor.mouseWheelZoom": true,
+    "code-runner.runInTerminal": true,
+    "cmake.configureOnOpen": true,
+    "editor.semanticTokenColorCustomizations": {
+    
+    }
+}
